@@ -8,3 +8,4 @@ gen
 node_modules
 src/*.js
 target
+.c9
